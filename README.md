@@ -14,5 +14,5 @@ At first screen, user can create new bank, or choose a bank from the list. If su
 
 ![Second Screen](https://github.com/khoaLe12/csharp-prn211-BankManagement/blob/main/Pictures/Screenshot%202023-04-17%20212750.png)
 
-##Database Diagram
+## Database Diagram
 ![db diagram](https://github.com/khoaLe12/csharp-prn211-BankManagement/blob/main/Pictures/Screenshot%202023-04-17%20214816.png)
