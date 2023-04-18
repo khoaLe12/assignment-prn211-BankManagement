@@ -1,4 +1,4 @@
-# Assignmnet - PRN211 - Bank Management System
+# Assignmnet 01 - PRN211 - Bank Management System
 This is a basic console app written by C#. It perform some basic CRUD action only.
 
 ## Techs Stacks
