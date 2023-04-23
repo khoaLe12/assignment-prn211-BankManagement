@@ -6,6 +6,7 @@ This is a basic console app written by C#. It perform some basic CRUD action onl
 * Framework: .NET 6, EF Core
 * Query tech: LINQ
 * Database: MS SQL Server
+* Asynchronous programming
 
 ## Description
 At first screen, user can create new bank, or choose a bank from the list. If successfully choose a bank, continue to perform some actions of a bank. 
